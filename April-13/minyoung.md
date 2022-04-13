@@ -17,4 +17,9 @@
                 <li>프래그먼트</li>
             </ol>
             </li>
+            <li>URN</li>
+        </ol>
+    </li>
+    <li>URL 문자집합</li>
+    <li>단축URL - 상대URL, 절대URL 추가 학습 필요</li>
 </ol>
