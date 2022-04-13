@@ -1,7 +1,9 @@
 # HTTP-The-Definitive-Guide_Study
-HTTP완벽가이드 스터디
+HTTP완벽가이드 스터디 (every wednesday)
 
-매주 수요일 발표합니다!  
+- 각자의 자료를 날짜에 맞는 폴더 내에 업로드합니다.
+
+
 
 4월 13일 학습 내용 발표 
 
