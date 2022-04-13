@@ -218,7 +218,7 @@ URL은 그 리소스에 대한 문서 전체를 가르치겠지만, 이상적으
 
 ![6](https://user-images.githubusercontent.com/96808980/163287451-f282d2ee-a00a-465c-b1be-9d1494872833.png)
 	
-[7](https://user-images.githubusercontent.com/96808980/163287449-1217c3ba-aebe-46c2-bad8-6d2cda55c1e6.png)
+![7](https://user-images.githubusercontent.com/96808980/163287449-1217c3ba-aebe-46c2-bad8-6d2cda55c1e6.png)
 
 메뉴를 클릭하지 않았을 때 URL의 변화
 
