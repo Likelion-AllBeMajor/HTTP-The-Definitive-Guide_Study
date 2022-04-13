@@ -243,7 +243,7 @@ URL은 그 리소스에 대한 문서 전체를 가르치겠지만, 이상적으
 
 URL “자동 확장"을 지원한다.
 
-![주소표시줄에서 “w”만 입력할 경우 URL이 “자동 확장”된다. ]![9](https://user-images.githubusercontent.com/96808980/163287443-e94534b5-03ca-4fe2-bbb2-9e672ad61188.png)
+	![9](https://user-images.githubusercontent.com/96808980/163287443-e94534b5-03ca-4fe2-bbb2-9e672ad61188.png)
 
 주소표시줄에서 “w”만 입력할 경우 URL이 “자동 확장”된다. 
 
