@@ -14,6 +14,7 @@ HTTP완벽가이드 스터디 (every wednesday, 10:00 PM ~ 12:00 PM, 1인당 20�
 
 1. HTTP 개관 (김슬기, 문희, 김시아)
 2. URL과 리소스 (신현우, 김민영, 구나영)
+   - https://www.notion.so/HTTP-2-URL-2aa0d61a75634a7e807fb352aeace5f3(신현우)
 
 
 4월 20일 학습 내용 발표
@@ -29,7 +30,7 @@ HTTP완벽가이드 스터디 (every wednesday, 10:00 PM ~ 12:00 PM, 1인당 20�
 1. 누군가 발표 시, 다른 분들은 마이크를 음소거 부탁드려요! (질문 시 켜주세요!)
 
 
- 
+- 스터디 멤버
 
 슬기님 - https://seulgicoding.tistory.com/<br>
 &emsp;&emsp;&emsp;&emsp;https://velog.io/@sgsg9447<br>
