@@ -1,4 +1,4 @@
-<a href="https://www.notion.so/HTTP-4-36cfdf43522649f69e2d4b57c0cd4d18">
+<a href="https://www.notion.so/HTTP-4-36cfdf43522649f69e2d4b57c0cd4d18">정리 원본</a>
   
   # [HTTP 완벽 가이드] 4장.  커넥션 관리
 
